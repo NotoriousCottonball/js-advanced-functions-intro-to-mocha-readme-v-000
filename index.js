@@ -1,3 +1,2 @@
 function favoriteIceCream(flavor) {
-  debugger;
 }
