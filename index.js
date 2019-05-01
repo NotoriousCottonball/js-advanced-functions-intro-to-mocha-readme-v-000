@@ -27,6 +27,3 @@ function sayHey(){
  function roundDown(number){
     return Math.floor(number);
 }
-
-function favoriteIceCream(flavor) {
-}
